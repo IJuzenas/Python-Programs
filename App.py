@@ -17,5 +17,13 @@ print (myMessage % (myName, myAge))
 #F String
 myAge = 20 + 5 
 myName = 'My name is Ignas'
-myMessage = f'{myName} I am {myAge} years old'
+myMessage = f'{myName} I am {5*5} years old'
 print (myMessage)
+
+#len function - counts chars
+txt = 'Welcome to Softlinks'
+print (txt.upper())
+print(txt.lower())
+print(txt.count('o'))
+print(txt.index('i'))
+print(txt.replace('o', 'i'))
