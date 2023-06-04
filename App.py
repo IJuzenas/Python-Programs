@@ -7,3 +7,9 @@ print(message2)
 
 #Multiplying Strings
 print('Python ' * 3)
+
+#Using placeholders in String
+myAge = 20
+myName = 'My name is Ignas'
+myMessage = '%s I am %s years old'
+print (myMessage % (myName, myAge))
