@@ -1,4 +1,2 @@
-rectangleLenght = 10
-rectangleBreadth = 5
-rectangleArea  = rectangleLenght * rectangleBreadth
-print(rectangleArea)
+message = 'He said, "Aren\'t can\'t shouldn\'t wouldn\'t." '
+print(message)
