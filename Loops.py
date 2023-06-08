@@ -6,3 +6,8 @@ names = ('Adam', 'Ignas', 'Sam')
 for x in names:
     print(f"Hello {x}")
     
+num = 5
+
+while num < 10:
+    print ('My endless loop') #Endless loop in console
+    
