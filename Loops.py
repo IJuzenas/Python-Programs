@@ -18,4 +18,9 @@ items = [['red', 'pink'], ['berry', 'grapes'], ['cat', 'dog']]
 for item in items:
     for x in item:
         print(x)  
-    
+
+#TASK 
+for x in range (1, 11):
+    for y in range (1, 13):
+        print (f'{x} x {y} = {x*y}')           
+    print('=============')    
