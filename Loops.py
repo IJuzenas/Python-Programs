@@ -9,5 +9,6 @@ for x in names:
 num = 5
 
 while num < 10:
-    print ('My endless loop') #Endless loop in console
+    num = num +1
+    print ('My endless loop')
     
